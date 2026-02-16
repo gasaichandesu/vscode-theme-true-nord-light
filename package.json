@@ -1,0 +1,21 @@
+{
+  "name": "vscode-theme-true-nord-light",
+  "displayName": "True Nord Light",
+  "description": "The only colorscheme which matches Nord palette",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "True Nord Light",
+        "uiTheme": "vs",
+        "path": "./themes/True Nord Light-color-theme.json"
+      }
+    ]
+  }
+}
