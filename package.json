@@ -2,6 +2,7 @@
   "name": "vscode-theme-true-nord-light",
   "displayName": "True Nord Light",
   "description": "The only colorscheme which matches Nord palette",
+  "repository": "https://github.com/gasaichandesu/vscode-theme-true-nord-light",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.109.0"
